@@ -85,7 +85,6 @@ int main()
                 {
                     rangeMax[currentRange.first][currentRange.second] = possibleValue;
                 }
-                //cout << rightMax << " " << leftMax << " " << pinataValues[k] * boundaryRight * boundaryLeft;
             }
             currentRange.first++;
             currentRange.second++;
